@@ -1,0 +1,355 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/************* fonts ***************/
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-weight: 500;
+  font-style: normal;
+  margin-block: 2rem 1rem;
+}
+
+h2 {
+  font-family: "Calligraffitti", cursive;
+  font-weight: 600;
+  font-style: normal;
+  margin-block: 1rem 1rem;
+}
+
+.index_text1 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.index_text2 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.dl_index {
+  font-family: "Caudex", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.computer_text1 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.computer_text2 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.op_text1 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text2 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text3 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text4 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text5 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text6 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text7 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.op_text8 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.komp_text1 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.komp_text2 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.komp_text3 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.komp_text4 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.komp_text5 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.komp_text6 {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.gal_text {
+  font-family: "Caudex", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+/************* main ***************/
+main {
+  max-width: 1200px;
+  margin-inline: auto;
+  padding: 0 0.5rem;
+}
+
+/************* colors ***************/
+body.forside_backgroundcolor {
+  background-color: black;
+}
+
+header.index_headerbackground_color {
+  background-color: rgb(240, 72, 139);
+}
+
+h1.forside_oversrift {
+  margin-block: 2rem 1rem;
+  color: rgb(162, 51, 155);
+}
+h2.forside_underskrift {
+  color: rgb(162, 51, 155);
+}
+
+.index_text1 {
+  margin-block: 2rem 1rem;
+  color: rgb(169, 120, 197);
+}
+.index_text2 {
+  margin-block: 2rem 1rem;
+  color: rgb(169, 120, 197);
+}
+
+.dl_index {
+  margin-block: 0.5rem 0.5rem;
+  color: rgb(116, 6, 101);
+}
+
+.index.footer_color {
+  color: rgb(0, 0, 0);
+}
+footer.index_footer_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
+
+body.computer_backgroundcolor {
+  background-color: rgb(0, 0, 0);
+}
+
+header.computer_headerbackground_color {
+  background-color: rgb(240, 72, 139);
+}
+
+h1.computer_overskrift {
+  color: rgb(128, 13, 55);
+}
+h2.computer_underskrift1 {
+  color: rgb(128, 13, 55);
+}
+
+.computer_text1 {
+  color: rgb(169, 120, 197);
+}
+
+h2.computer_underskrift2 {
+  color: rgb(128, 13, 55);
+}
+
+.computer_text2 {
+  color: rgb(169, 120, 197);
+}
+
+.comupter_footertext {
+  color: black;
+}
+footer.computer_footer_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
+
+body.operativsystem_backgroundcolor {
+  background-color: rgb(0, 0, 0);
+}
+
+header.operativsystem_header_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
+
+h1.operativsystem {
+  margin-block: 2rem 1rem;
+  color: rgb(162, 51, 155);
+}
+
+h2.operativsystem1 {
+  color: rgb(162, 51, 155);
+}
+
+.op_text1 {
+  color: rgb(169, 120, 197);
+}
+.op_text2 {
+  color: rgb(169, 120, 197);
+}
+.op_text3 {
+  color: rgb(169, 120, 197);
+}
+.op_text4 {
+  color: rgb(169, 120, 197);
+}
+.op_text5 {
+  color: rgb(169, 120, 197);
+}
+.op_text6 {
+  color: rgb(169, 120, 197);
+}
+
+h2.operativsystem2 {
+  color: rgb(162, 51, 155);
+}
+
+.op_text7 {
+  color: rgb(169, 120, 197);
+}
+.op_text8 {
+  color: rgb(169, 120, 197);
+}
+
+.op_footertext {
+  background-color: rgb(240, 72, 139);
+}
+footer.operativsystem_footerbackground_color {
+  color: black;
+}
+
+body.komp_backgroundcolor {
+  background-color: rgb(0, 0, 0);
+}
+
+header.komp_headerbackground_color {
+  background-color: rgb(240, 72, 139);
+}
+
+h1.komponenter {
+  margin-block: 2rem 1rem;
+  color: rgb(128, 13, 55);
+}
+
+h2.komp_underskrift1 {
+  color: rgb(128, 13, 55);
+}
+
+.komp_text1 {
+  color: rgb(169, 120, 197);
+}
+.komp_text2 {
+  color: rgb(169, 120, 197);
+}
+.komp_text3 {
+  color: rgb(169, 120, 197);
+}
+
+h2.komp_underskrift2 {
+  color: rgb(128, 13, 55);
+}
+
+h3.komp_under_underskrift1 {
+  color: rgb(116, 6, 101);
+}
+
+.komp_text4 {
+  color: rgb(169, 120, 197);
+}
+
+h3.komp_under_underskrift2 {
+  color: rgb(116, 6, 101);
+}
+
+.komp_text5 {
+  color: rgb(169, 120, 197);
+}
+
+h2.komp_underskrift3 {
+  color: rgb(128, 13, 55);
+}
+
+.komp_text6 {
+  color: rgb(169, 120, 197);
+}
+
+.komp_footertext {
+  color: black;
+}
+footer.komp_footer_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
+
+body.gal_backgroundcolor {
+  background-color: rgb(0, 0, 0);
+}
+
+header.gal_header_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
+
+h1.galleri_overskrift {
+  margin-block: 2rem 1rem;
+  color: rgb(162, 51, 155);
+}
+
+h2.gal_underskrift {
+  color: rgb(162, 51, 155);
+}
+
+.gal_text {
+  color: rgb(169, 120, 197);
+}
+
+.gal_footertext_color {
+  color: black;
+}
+footer.gal_footer_backgroundcolor {
+  background-color: rgb(240, 72, 139);
+}
