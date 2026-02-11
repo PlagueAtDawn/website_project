@@ -1,11 +1,44 @@
 /* *********** mobil ************** */
 
 /* *********** pc ************** */
+/* ***** min computer ***** */
 @media (min-width: 1200px) {
-  /* *********** min computer ************** */
   .grid1_1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+  }
+  /* ***** index ***** */
+  .grid_2-1 {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    .grid_1-1 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      order: -1;
+    }
+    /* ***** opperativ ***** */
+    .grid_5-3 {
+      display: grid;
+      grid-template-columns: 5fr 3fr;
+      gap: 20px;
+    }
+    .grid_2-3 {
+      display: grid;
+      grid-template-columns: 2fr 3fr;
+      gap: 20px;
+    }
+    .grid_3-2 {
+      display: grid;
+      grid-template-columns: 3fr 2fr;
+      .order {
+        order: -1;
+      }
+    }
+    /* ***** komp ***** */
+
+    /* ***** gal ***** */
   }
 }
