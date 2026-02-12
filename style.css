@@ -201,7 +201,7 @@ body.forside_backgroundcolor {
 }
 
 header.index_headerbackground_color {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 h1.forside_oversrift {
@@ -230,7 +230,7 @@ h2.forside_underskrift {
   color: rgb(0, 0, 0);
 }
 footer.index_footer_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 body.computer_backgroundcolor {
@@ -238,7 +238,7 @@ body.computer_backgroundcolor {
 }
 
 header.computer_headerbackground_color {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 h1.computer_overskrift {
@@ -264,7 +264,7 @@ h2.computer_underskrift2 {
   color: black;
 }
 footer.computer_footer_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 body.operativsystem_backgroundcolor {
@@ -272,7 +272,7 @@ body.operativsystem_backgroundcolor {
 }
 
 header.operativsystem_header_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 h1.operativsystem {
@@ -319,7 +319,7 @@ h2.operativsystem2 {
 }
 
 .op_footertext {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 footer.operativsystem_footerbackground_color {
   color: black;
@@ -330,7 +330,7 @@ body.komp_backgroundcolor {
 }
 
 header.komp_headerbackground_color {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 h1.komponenter {
@@ -384,7 +384,7 @@ h2.komp_underskrift3 {
   color: black;
 }
 footer.komp_footer_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 body.gal_backgroundcolor {
@@ -392,7 +392,7 @@ body.gal_backgroundcolor {
 }
 
 header.gal_header_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
 
 h1.galleri_overskrift {
@@ -412,5 +412,5 @@ h2.gal_underskrift {
   color: black;
 }
 footer.gal_footer_backgroundcolor {
-  background-color: rgb(240, 72, 139);
+  background-color: rgb(170, 35, 89);
 }
