@@ -94,7 +94,7 @@ h2 {
   font-weight: 500;
   font-style: normal;
 }
-.dl_index {
+.dl_grid_1-1 {
   font-family: "Caudex", serif;
   font-weight: 600;
   font-style: normal;
@@ -221,7 +221,7 @@ h2.forside_underskrift {
   color: rgb(169, 120, 197);
 }
 
-.dl_index {
+.dl_grid_1-1 {
   margin-block: 0.5rem 0.5rem;
   color: rgb(116, 6, 101);
 }
